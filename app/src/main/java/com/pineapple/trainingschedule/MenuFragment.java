@@ -19,7 +19,6 @@ public class MenuFragment extends Fragment {
         Bundle b = new Bundle();
         b.putInt("position", position);
         f.setArguments(b);
-
         return f;
     }
 
