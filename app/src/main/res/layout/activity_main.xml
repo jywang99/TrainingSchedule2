@@ -15,6 +15,7 @@
             android:layout_width="match_parent"
             android:layout_height="35dip"
             android:layout_below="@+id/toolbar"
+            android:textColor="#FFFFFF"
             android:background="#3E8CC7"
             app:pstsDividerColor="@android:color/transparent"
             app:pstsIndicatorHeight="3dp"
