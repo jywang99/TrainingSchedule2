@@ -20,6 +20,7 @@ public class MenuFragment extends Fragment {
         b.putInt("position", position);
         f.setArguments(b);
 
+
         return f;
     }
 

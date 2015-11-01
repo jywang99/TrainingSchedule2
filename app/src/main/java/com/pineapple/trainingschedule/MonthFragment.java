@@ -31,7 +31,7 @@ public class MonthFragment extends Fragment {
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        View view = inflater.inflate(R.layout.fragment, container, false);
+        View view = inflater.inflate(R.layout.monthfragment, container, false);
 
         return view;
     }
